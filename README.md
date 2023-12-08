@@ -1,1 +1,1 @@
-# SQLAlchemy Code Challenge Restaurants.
+# SQLAlchemy Code Challenge: Restaurants.
